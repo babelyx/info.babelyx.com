@@ -4,7 +4,9 @@
 
 ---
 
-to be continued...
+Your creation will be minted to an NFT that can be traded in the decentralized world through OpenSea, MetaMask, PolygonScan, etc.
+
+To be continued...
 
 ---
 
