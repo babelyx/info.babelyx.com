@@ -1,4 +1,4 @@
-# Babelyx - Monetize Your Creations
+# Babelyx - Monetize Any Content
 
 🌎 [简体中文](./_zhcn.md)
 

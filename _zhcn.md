@@ -7,7 +7,7 @@
 ### 目录
 
 - 入门
-  - [为什么使用巴贝历？](./plans/user_guide/_zhcn.md)
+  - [用户向导：为什么使用巴贝历？](./plans/user_guide/_zhcn.md)
   - [技术白皮书：变现任意内容](./plans/whitepaper/_zhcn.md)
 - 新闻
   - [新闻和历史](./news/_zhcn.md)
@@ -23,12 +23,12 @@
 有任何想法？联系我们！
 
 - 发送邮件给 [cn@babelyx.com](mailto:cn@babelyx.com)
-- 在应用里 <a href="https://csr.巴贝历.com" target="_blank">给客服留言</a>
-- 全网搜索并关注 <a href="https://links.巴贝历.com" target="_blank">【巴贝历】频道</a>
+- 在应用里 [给客服留言](https://csr.巴贝历.com)
+- 全网搜索并关注 [【巴贝历】频道](https://links.巴贝历.com)
 
 ---
 
-🚀 说一千道一万，不如立刻体验 <a href="https://u.巴贝历.com" target="_blank">【巴贝历】应用</a>
+🚀 说一千道一万，不如立刻体验 [【巴贝历】应用](https://u.巴贝历.com)
 
 <!-- ✨ 巴贝历源自 [远近星空](https://yuanjinx.com) -->
 
