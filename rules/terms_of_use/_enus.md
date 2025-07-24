@@ -1,6 +1,10 @@
 # Babelyx - Terms of Use
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.babelyx.com) ｜ [Navite Apps](https://links.babelyx.com)
 
 ---
 
@@ -121,4 +125,4 @@ Written claims concerning copyright infringement must include the following info
 
 ---
 
-[**🔙️ Back to Home**](../../_enus.md)
+[**🔙️ Go Home**](../../_enus.md)

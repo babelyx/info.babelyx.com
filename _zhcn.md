@@ -1,22 +1,29 @@
 # 巴贝历
 
-🌎 [Babelyx - English](./_enus.md)
+🌐 [English](./_enus.md)
+
+<!-- 🌎 待定 -->
+
+🚀 [网页应用](https://u.babelyx.com) ｜ [手机应用](https://links.babelyx.com)
 
 ---
 
 ### 目录
 
 - 入门
-  - [用户向导：为什么使用巴贝历？](./plans/user_guide/_zhcn.md)
-  - [技术白皮书：变现任意内容](./plans/whitepaper/_zhcn.md)
+  - [用户入门：为什么使用巴贝历？](./about/user_guide/_zhcn.md)
+  - [白皮书：变现你的任意内容](./about/whitepaper/_zhcn.md)
+  - [巴贝币：发币计划](./about/credit_coin/_zhcn.md)
 - 新闻
-  - [新闻和历史](./news/_zhcn.md)
-- 博客
-  - [元宇宙，人造物，巴别塔，巴贝历](./blog/_zhcn.md)
+  - [应用更新](./news/_zhcn.md)
 - 指南
-  - [怎样创作人造物？](./topic/how_to_create_artifact/_zhcn.md)
-  - [怎样变现人造物？](./topic/how_to_monetize_creation/_zhcn.md)
-  - [怎样生成造物币？](./topic/how_to_mint_nft/_zhcn.md)
+  - [怎样创作人造物？](./howto/how_to_create_content/_zhcn.md)
+  - [怎样销售人造物？](./howto/how_to_monetize_creation/_zhcn.md)
+  - [怎样生成 NFT 造物币？](./howto/how_to_mint_nft/_zhcn.md)
+- 推荐
+  - [精选作品推荐](./refer/_zhcn.md)
+- 博客
+  - [人造物，巴别塔，巴贝历，......](./blog/_zhcn.md)
 
 ### 联系
 

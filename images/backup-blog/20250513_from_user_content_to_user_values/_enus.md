@@ -1,10 +1,14 @@
 # Babelyx: From User Content To User Values
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.babelyx.com) ｜ [Navite Apps](https://links.babelyx.com)
 
 ---
 
-Babelyx is the Web3 Library of Babel, the metaverse of user-generated content. It engraves user content artifacts onto Web3 media (using blockchain, smart contracts, IPFS, NFT, and more innovative technologies), encrypting, storing, and trading them, thereby unlocking every possibility for everyone.
+Babelyx is the Web3 Library of Babel, the metaverse of user-generated content. It engraves user content artifacts onto Web3 media, encrypting, storing, and trading them, thereby unlocking every possibility for everyone.
 
 In Babelyx, users can:
 
@@ -14,4 +18,4 @@ In Babelyx, users can:
 
 ---
 
-[**🔙️ Back to Home**](../../_enus.md)
+[**🔙️ Go Home**](../../_enus.md)

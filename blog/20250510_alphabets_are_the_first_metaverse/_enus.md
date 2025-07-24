@@ -8,6 +8,8 @@
 
 ---
 
+2025-05-10
+
 Everything expressed in words—family, religion, country, love, hate... — is not composed of the 118 physical elements of the universe but exists only in imagination. Humanity wove the first metaverse with words, guiding the construction of today's world. Therefore, the moment humans first created writing, it was recorded as an event that "startled heaven and earth, maked ghosts and gods weep."
 
 > The anthropological classic "Sapiens: A Brief History of Humankind" points out that human society is "imagined reality based on fantacy". Humans live in a "dual reality" - the objective reality of rivers and trees, and the imagined reality of gods and nations.
@@ -18,4 +20,6 @@ What will the second metaverse be? It shall possess power comparable to that of 
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**⬆️ Go Back**](../_enus.md)
+
+[**🏠 Go Home**](../../../_enus.md)

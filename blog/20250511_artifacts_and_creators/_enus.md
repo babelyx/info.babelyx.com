@@ -1,4 +1,4 @@
-# Artifacts and Creators
+# Artifacts: Everyone is Creator
 
 🌐 [简体中文](./_zhcn.md)
 
@@ -7,6 +7,8 @@
 🚀 [WebApp](https://u.babelyx.com) ｜ [Navite Apps](https://links.babelyx.com)
 
 ---
+
+2025-05-11
 
 Novels, paintings, music, mathematical formulas—from grand scriptures like Buddhist sutras, the Bible, and the Quran, to any casual remark we utter—are all "artifacts," just like pots, pans, buildings, airplanes, and mobile phones. Some artifacts seem to be composed entirely of the 118 physical elements, yet they possess shapes, styles, and meanings that can only be described by a textual metaverse. Some artifacts seem purely illusory, but behind all illusions, there must be physical traces.
 
@@ -22,4 +24,6 @@ Every time we arrange flowers, tighten screws, or when we speak, take photos, ev
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**⬆️ Go Back**](../_enus.md)
+
+[**🏠 Go Home**](../../../_enus.md)
