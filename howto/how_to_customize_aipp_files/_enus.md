@@ -44,4 +44,4 @@ You can upload files of following formats:
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

@@ -17,13 +17,13 @@
 - 新闻
   - [应用更新](./news/_zhcn.md)
 - 指南
-  - [怎样创作人造物？](./howto/how_to_create_content/_zhcn.md)
-  - [怎样销售人造物？](./howto/how_to_monetize_creation/_zhcn.md)
+  - [怎样创作元造物？](./howto/how_to_create_content/_zhcn.md)
+  - [怎样销售元造物？](./howto/how_to_monetize_creation/_zhcn.md)
   - [怎样生成 NFT 造物币？](./howto/how_to_mint_nft/_zhcn.md)
 - 推荐
   - [精选作品推荐](./refer/_zhcn.md)
 - 博客
-  - [人造物，巴别塔，巴贝历，......](./blog/_zhcn.md)
+  - [元造物，巴别塔，巴贝历，......](./blog/_zhcn.md)
 
 ### 联系
 

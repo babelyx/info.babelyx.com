@@ -22,4 +22,4 @@ If we engrave user-generated content onto Web3, what possibilities will it foste
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

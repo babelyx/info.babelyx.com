@@ -56,4 +56,4 @@ Please contact us for more details.
 
 ---
 
-[**🔙️ Go Home**](../_enus.md)
+[**🏠 Go Home**](../_enus.md)

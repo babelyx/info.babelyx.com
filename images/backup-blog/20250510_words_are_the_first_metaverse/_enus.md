@@ -18,4 +18,4 @@ What will the second metaverse be? It shall possess power comparable to that of 
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

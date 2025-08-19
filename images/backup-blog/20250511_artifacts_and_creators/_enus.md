@@ -22,4 +22,4 @@ Every time we arrange flowers, tighten screws, or when we speak, take photos, ev
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

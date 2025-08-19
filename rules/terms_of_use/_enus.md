@@ -125,4 +125,4 @@ Written claims concerning copyright infringement must include the following info
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

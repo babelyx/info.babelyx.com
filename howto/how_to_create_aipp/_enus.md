@@ -30,4 +30,4 @@ You can also share the assistant with your friends, so go ahead and show it off!
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

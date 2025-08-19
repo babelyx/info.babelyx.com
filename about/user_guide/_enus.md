@@ -33,4 +33,4 @@ Talk is cheap, show me the app! [🎁 Claim your bonus and try Babelyx now!](htt
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

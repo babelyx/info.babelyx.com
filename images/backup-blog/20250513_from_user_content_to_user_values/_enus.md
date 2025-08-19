@@ -18,4 +18,4 @@ In Babelyx, users can:
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

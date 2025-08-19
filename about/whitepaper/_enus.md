@@ -88,4 +88,4 @@ Have you ever been stuck in a creative rut, unable to find inspiration despite r
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

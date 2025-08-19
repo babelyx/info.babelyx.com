@@ -44,4 +44,4 @@ Every artifact contains intrinsic Smart Contracts to enable automatic trading an
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

@@ -16,4 +16,4 @@
 
 ---
 
-[**🔙️ Go Home**](../_enus.md)
+[**🏠 Go Home**](../_enus.md)

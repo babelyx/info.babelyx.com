@@ -38,4 +38,4 @@ During the daily operations period, the total amount of Babel Coin (BAB) will ma
 
 ---
 
-[**🔙️ Go Home**](../../_enus.md)
+[**🏠 Go Home**](../../_enus.md)

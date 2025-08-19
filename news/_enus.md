@@ -58,4 +58,4 @@ Dear China users, due to local policies in China, to continue serving you, the l
 
 ---
 
-[**🔙️ Go Home**](../_enus.md)
+[**🏠 Go Home**](../_enus.md)
