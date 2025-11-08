@@ -1,4 +1,4 @@
-# 怎样生成造物币？
+# 怎样生成主权币？
 
 🌐 [English](./_enus.md)
 
@@ -8,7 +8,7 @@
 
 ---
 
-您的元造物将被铸造成世界公认的 NFT，可在 OpenSea, MetaMask, PolygonScan 等各种平台上交易。
+您的元作品将被铸造成世界公认的 NFT，可在 OpenSea, MetaMask, PolygonScan 等各种平台上交易。
 
 待续...
 

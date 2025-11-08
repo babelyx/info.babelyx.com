@@ -50,7 +50,7 @@ If you don't make a setting, it defaults to be "Disallowed" and prevents users f
 
 You can also transfer an artifact and all its rights and interests as a whole package at a total price. Who acquires it becomes the new owner of this artifact, possessing all future rights and interests. (This is equivalent to setting the profit-sharing ratio of the agency contract to 100%, completely transferring the artifact to the new owner.)
 
-Please note, Babelyx highly values the worth of originality. Even if you completely transfer the original work to a new rights holder, you still, and will forever, possess the sole original creator identity for this artifact, i.e., the Creator.
+Please note, Babelyx highly values the worth of originality. Even if you completely transfer the original work to a new rights holder, you still are, and will forever be, the sole original creator for this artifact, i.e., the Creator.
 
 If you don't make a setting, it defaults to be "Disallowed" and prevents users from acquiring your work and its rights.
 

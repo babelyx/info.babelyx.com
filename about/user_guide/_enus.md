@@ -14,7 +14,7 @@ Have you ever created content online but never received compensation, or even fa
 
 Join Babelyx, monetize your content and unlock new possibilities!
 
-Babelyx is an innovative decentralized content monetization platform based on innovative technologies. You can share images, text, files or long stories like on social media. Even better, you can encrypt and sell your valuable creations, as if you were running your own store.
+Babelyx is an innovative decentralized content monetization platform based on innovative technologies. You can share images, text, files or long stories like on social media. Even better, you can encrypt and sell your valuable content, as if you were running your own store.
 
 1. **Create Freely**
    - You can publish any form of content as you wish. A simple picture, a piece of text, a video, or a long story with pictures and text can all become your unique creation.
@@ -24,7 +24,7 @@ Babelyx is an innovative decentralized content monetization platform based on in
    - Each of your content artifacts will be engraved on the InterPlanetary File System (IPFS), decentralized and permanently stored.
 3. **Smart Transactions**
    - More wonderfully, in Babelyx, your content artifacts will also be packaged into a vending machine, and other users must pay you to read, hold, or take over your artifacts.
-   - You can also cast each content artifact into a unique creation coin (NFT) to become your token asset and trade it across platforms.
+   - You can also cast each content artifact into a unique creation coin (NFT) to become your crypto asset and trade it across platforms.
 4. **Perpetual Realization**
    - 7x24 hours of automated transactions bring you a steady stream of passive income! No customer service, no delivery, no after-sales, you only need to focus on the creation.
    - User payments go directly into your exclusive blockchain account, without an intermediary platform, without advertising. Value get directly realized from your creation.

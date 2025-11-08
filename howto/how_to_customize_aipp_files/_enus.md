@@ -1,4 +1,4 @@
-# How to upload files to Aipp?
+# How to upload files to Aibot?
 
 🌐 [简体中文](./_zhcn.md)
 

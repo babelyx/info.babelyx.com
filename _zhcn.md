@@ -16,9 +16,9 @@
 
 ### 指南
 
-- [怎样创作元造物？](./howto/how_to_create_content/_zhcn.md)
-- [怎样出售元造物？](./howto/how_to_monetize_creation/_zhcn.md)
-- [怎样生成 NFT 造物币？](./howto/how_to_mint_nft/_zhcn.md)
+- [怎样创作元作品？](./howto/how_to_create_content/_zhcn.md)
+- [怎样出售元作品？](./howto/how_to_monetize_creation/_zhcn.md)
+- [怎样生成 NFT 主权币？](./howto/how_to_mint_nft/_zhcn.md)
 
 ### 新闻
 
@@ -26,7 +26,7 @@
 
 ### 博客
 
-- [元造物，巴别塔，巴贝历，......](./blog/_zhcn.md)
+- [元作品，巴别塔，巴贝历，......](./blog/_zhcn.md)
 
 <!--
 ### 推荐

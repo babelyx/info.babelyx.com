@@ -8,12 +8,6 @@
 
 ---
 
-- 2025-07-22 [Babelyx and RWA](./20250722/_enus.md)
-- 2025-05-13 [Babelyx: Monetize User Content](./20250513/_enus.md)
-- 2025-05-12 [The Library of Babel: Metaverse of Content](./20250512/_enus.md)
-- 2025-05-11 [The Tower of Babel: Artifacts and Creators](./20250511/_enus.md)
-- 2025-05-10 [Alphabets: Humanity&#39;s First Metaverse](./20250510/_enus.md)
-
 ### Is RWA Realistic?
 
 2025-07-22
